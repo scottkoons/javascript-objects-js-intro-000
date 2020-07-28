@@ -1,5 +1,5 @@
 var playlist = {
-  buffet: "Jimmy";
+  buffet: "Jimmy"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
